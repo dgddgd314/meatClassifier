@@ -1,5 +1,5 @@
 # meatClassifier
-this is from my HighSchool Project in AI Class
+Classify meat freshness into three groups using CNN
 
 ## Few Fun EDA
 : Average pixel RGB, and Plotting Distribution
@@ -17,6 +17,7 @@ this is from my HighSchool Project in AI Class
 ## Voting Ensemble
 : I made this one, because it was easy. I used 13 models, which I uploaded
 
+this is from my HighSchool Project in AI Class
 To conclude, this was fun tbh
 
 source : https://www.kaggle.com/datasets/vinayakshanawad/meat-freshness-image-dataset
